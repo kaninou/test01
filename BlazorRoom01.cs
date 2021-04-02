@@ -12,5 +12,7 @@ namespace HiddenVilla_Server.Model
         public string Name { get; set; }
         
         public string Country { get; set; }
+        
+         public float Price { get; set; }
     }
 }
