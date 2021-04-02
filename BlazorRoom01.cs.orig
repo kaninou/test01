@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace HiddenVilla_Server.Model
+{
+    public class BlazorRoom
+    {
+        public int Id { get; set; }
+
+        public string Name { get; set; }
+<<<<<<< HEAD
+
+        public int Size { get; set; }
+=======
+        
+        public string Country { get; set; }
+>>>>>>> 0c31ac40a636a6962c4fbe54aa95c89f85a5ddad
+    }
+}
