@@ -18,5 +18,7 @@ namespace HiddenVilla_Server.Model
           public string ZipCode { get; set; }
 
          public string Size { get; set; }
+        
+         public string City { get; set; }
     }
 }
