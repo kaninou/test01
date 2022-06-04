@@ -20,5 +20,7 @@ namespace HiddenVilla_Server.Model
          public string Size { get; set; }
         
          public string City { get; set; }
+
+        public boolean HasAirCon { get; set; }
     }
 }
